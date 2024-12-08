@@ -1,0 +1,8 @@
+* Python 3.12+
+* Pustaka:
+    - pandas
+    - numpy
+    - scikit-learn
+    - matplotlib
+    - seaborn
+    - tensorflow
